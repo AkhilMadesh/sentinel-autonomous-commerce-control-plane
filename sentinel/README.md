@@ -480,7 +480,3 @@ This repository is intended for demonstration and buildathon evaluation.
 - Rotate any credential that has accidentally been exposed.
 
 ---
-
-## 📜 License
-
-Add the license required by your buildathon/submission requirements.
