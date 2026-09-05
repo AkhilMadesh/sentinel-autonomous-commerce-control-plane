@@ -464,7 +464,7 @@ The result is an agentic purchasing architecture where **autonomy is bounded, ev
 
 ## 👤 Author
 
-**Akhil Gudise**
+**Akhil Madesh Gudise**
 
 Built as an AI-native commerce control plane for the Razorpay AI Buildathon.
 
@@ -480,7 +480,3 @@ This repository is intended for demonstration and buildathon evaluation.
 - Rotate any credential that has accidentally been exposed.
 
 ---
-
-## 📜 License
-
-Add the license required by your buildathon/submission requirements.
